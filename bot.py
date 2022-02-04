@@ -4,7 +4,7 @@ url = "https://www.sarhne.com/ajax/messages/send.html"
 id = ""
 def post():
    #msg=this+test+all+opppp&show_my_info=on&img_code=&link=103961398130919630158&bad_words=false&i=null
-    myobj = {'msg': 'stop making bullshits and focus on your dreams you have 1 day to stop it ISIGK have a nice day ^ufo^  :)',
+    myobj = {'msg': ' this spam bot ',  #this the msg
     'show_my_info':'on',
     'img_code':'',
     'link':str(id),  #id of user
