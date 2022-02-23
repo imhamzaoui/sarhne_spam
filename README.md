@@ -9,13 +9,14 @@ Bot Spam : https://www.sarhne.com
 
   •	String Message : input string <br>	
 
-![cap](https://user-images.githubusercontent.com/78570017/155334991-c0be2c34-da16-4aa2-852f-b89d7b7c6282.JPG) <br>
+
+![](Screenshot/cap.JPG)<br>
 
   •	Text File      : Local Text File <msg.txt>
 	
-	
-![cap2](https://user-images.githubusercontent.com/78570017/155335099-9333d2d7-3e00-4e21-8e6d-49f587d88b46.JPG)
 
+
+![](Screenshot/cap2.JPG)
 
 
 <footer>
