@@ -21,7 +21,7 @@ Bot Spam : https://www.sarhne.com
 
 <footer>
 <p style="float:left; width: 20%;">
-Copyright © HAMZAOUI, 2022
+© HAMZAOUI, 2022
 </p>
 <p style="float:left; width: 60%; text-align:center;">
 </p>
